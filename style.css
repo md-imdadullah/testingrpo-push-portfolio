@@ -1,0 +1,62 @@
+body{font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+
+h1{font-size: 50px;
+
+
+}
+.color{
+    color: orange;
+}
+
+.one{
+    width:40% ;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.one img{
+    width: 140%;
+}
+.button{text-decoration: none;
+
+    background-color: rgb(255, 199, 57);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(224, 224, 224)
+}
+.onea{
+    width:40% ;
+    float:right ;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.onea img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.two{background-color: rgba(196, 216, 15, 0.699);
+background-image: url(img/bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+.five{
+    widows: 5px; 
+    float: right;
+    margin-left: 10%;
+    padding-left: 5%;
+}
+.five{
+    box-shadow:10px 10px 40px greenyellow ;
+    border-radius: 10px;
+    height: 80%;
+    background-image: url(img/xbg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border: left: 7px so;;
+
+}
